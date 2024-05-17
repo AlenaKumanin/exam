@@ -1,0 +1,28 @@
+.carousel-item {
+    text-align: center;
+    display: contain;
+    height: 400px;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f1f1f1;
+  }
+
+.header{ 
+    width:after;
+    background-color: rgb(24, 45, 62) !important; 
+    height: 70px;
+    font-style: 100px;
+    margin-bottom: 50px;
+}
+
+.footer{
+    background-color: rgb(67, 126, 177) !important;
+    height: 70px;
+    font-size: 70px;
+    margin-bottom: 10px;
+}
